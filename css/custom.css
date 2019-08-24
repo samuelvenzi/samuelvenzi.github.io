@@ -4,6 +4,8 @@ body {
   color: #868e96;
 }
 
+@font-face { font-family: Bebas Neue; src: url('bebas.ttf'); } 
+
 @media (min-width: 992px) {
   body {
     padding-top: 0;
@@ -17,7 +19,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Saira Extra Condensed', serif;
+  font-family: 'Saira Extra Condensed', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   color: #343a40;
